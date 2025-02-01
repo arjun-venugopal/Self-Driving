@@ -1,0 +1,26 @@
+# numpy - Scientific computing library for numerical operations and array manipulation
+numpy<2
+
+# matplotlib - Plotting library for creating static, animated, and interactive visualizations
+matplotlib
+
+# tensorflow - Open-source machine learning framework for deep learning models
+tensorflow
+
+# keras - High-level neural network API, running on top of TensorFlow
+keras
+
+# flask - Lightweight web application framework for serving the model/application
+flask
+
+# eventlet - Concurrent networking library for asynchronous operations
+eventlet
+
+# python-socketio - Implementation of Socket.IO protocol for real-time bidirectional communication
+python-socketio==4.6.1
+
+# opencv-contrib-python - Computer vision library with additional modules for image/video processing
+opencv-contrib-python
+
+#python-engineio - Python implementation of the Engine.IO WebSocket transport
+python-engineio==3.13.2
