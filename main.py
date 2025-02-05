@@ -13,7 +13,7 @@ import keras.saving
 
 sio = socketio.Server()
 app = Flask(__name__)  
-speed_limit = 20
+speed_limit = 10
 
 
 def mse(y_true, y_pred):
